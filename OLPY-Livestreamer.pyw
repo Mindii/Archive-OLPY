@@ -1,5 +1,5 @@
 import os							# OS Module
-from tkinter import Tk				# Clipboard module
+from tkinter import Tk			# Clipboard module
 
 # Let's get clipboard
 r = Tk()
