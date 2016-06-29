@@ -5,6 +5,7 @@ Lazy and dirty way opening some links on conkeror (or other browser with little 
 watch youtube, hitbox or twitch streams with livestreamer and show message with growl
 
 https://github.com/chrippa/livestreamer
+
 http://www.growlforwindows.com/gfw/help/growlnotify.aspx
 
 Usage: 
