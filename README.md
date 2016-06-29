@@ -1,6 +1,8 @@
 # OLPY-Conkeror
 Lazy and dirty way opening some links on conkeror (or other browser with little changes)
 
+https://github.com/retroj/conkeror
+
 Usage: 
 
 Change path to your browser location.
